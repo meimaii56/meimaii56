@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meimaii56&count_private=true&theme=react)
+已於 2023/8/11 離職！
